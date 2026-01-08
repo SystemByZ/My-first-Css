@@ -1,0 +1,45 @@
+.header{
+    color: beige;
+    background-color: aqua;
+    height: 400px;
+    width: 800px;
+    margin: 20px;
+    background-color: aquamarine;
+    background-image: url('Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg');
+    background-repeat: no-repeat;
+    background-position: center ;
+    /* background-size: cover; */
+    border: 5px black solid;
+    border-radius: 10px;
+}
+
+.aa{
+    text-align: justify;
+    border: 10px black solid;
+    background-color: aqua;
+    margin: 25px;
+    padding: 5px;
+    width: 800px;
+    height: 250px;
+    box-shadow: 20px 20px 5px grey;
+}
+.ab{
+    text-align: justify;
+    border: 10px black solid;
+    background-color: aqua;
+    margin: 25px;
+    padding: 5px;
+    width: 800px;
+    height: 250px;
+    box-shadow: 20px 20px 5px grey;
+}
+.ac{
+    text-align: justify;
+    border: 10px black solid;
+    background-color: aqua;
+    margin: 25px;
+    padding: 5px;
+    width: 800px;
+    height: 250px;
+    box-shadow: 20px 20px 5px grey;
+}
